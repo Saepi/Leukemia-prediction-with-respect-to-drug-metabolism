@@ -29,7 +29,7 @@ To interpret the PCA-based Cox model in terms of the original transcripts, the f
 
 **Formula 1.** Risk score expressed as a linear combination of principal components   
 
-<img src="files/Formula_2.png" width="250">
+<img src="files/Formula_2.png" width="300">
 
 **Formula 2.** Projection of Cox coefficients back to the original gene space, where W denotes the PCA loading matrix.   
 
@@ -111,5 +111,6 @@ Overall, these results suggest that survival in leukemia is shaped by a combinat
 This work is done by Viktor Nekrasov, LS-1 (analysis of pediatric cohort) and Stepan Epifantsev, DS-1 (analysis of adult cohort).   
 
 ## References   
-[cBioPortal for Cancer Genomics](https://www.cbioportal.org/study/summary?id=all_phase2_target_2018_pub)    
-[cBioPortal for Cancer Genomics](https://www.cbioportal.org/study/summary?id=cll_broad_2022)    
+[Pediatric Acute Lymphoid Leukemia - Phase II](https://www.cbioportal.org/study/summary?id=all_phase2_target_2018_pub)
+
+[Chronic Lymphocytic Leukemia](https://www.cbioportal.org/study/summary?id=cll_broad_2022)
