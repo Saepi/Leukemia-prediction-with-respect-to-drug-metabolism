@@ -1,4 +1,5 @@
-# Survival prediction in Leukemia patients with respect to toxicity and   
+# Survival prediction in Leukemia patients with respect to toxicity and drug metabolism
+
 ## Introduction   
 Leukemia is one of the most common malignancies of the hematopoietic system and affects both pediatric and adult populations. Despite substantial advances in treatment, patient outcomes remain highly heterogeneous. While some individuals respond well to therapy and achieve long-term remission, others experience severe treatment-related toxicity, early relapse, or death. Improving the accuracy of survival prediction could support more personalized treatment strategies, enabling clinicians to balance therapeutic efficacy against toxicity, particularly in vulnerable populations such as children.   
 
