@@ -87,7 +87,7 @@ In the pediatric cohort, relapse was analyzed as the first event due to sufficie
 |            | Clinical Data | Drug Metabolic Genes | Clinical and Genes |
 |:-----------|:--------------|:---------------------|:-------------------|
 | Relapse CI |         0.606 |                0.615 |              0.660 |
-|   Death CI |         0.674 |                0.605 |              0.621 |
+|   Death CI |         0.674 |                0.605 |              0.660 |
 
 **Table 5.** Concordance indices for Cox models using different target events.   
 
