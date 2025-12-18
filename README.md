@@ -93,7 +93,7 @@ In the pediatric cohort, relapse was analyzed as the first event due to sufficie
 
 Integrating clinical and molecular features improved relapse prediction compared with either type of data alone. Also, results suggest that drug metabolism genes add prognostic value for relapse risk in pediatric leukemia, while overall survival is mainly driven by clinical factors.   
 
-Analysis of significant covariates revealed that several drug metabolism genes—including UGT1A1, NUDT15, CYP2C9, CYP2C19, CYP2C8, CES1, and ABCC3—were associated with relapse risk in RNA-only models. When combining RNA and clinical features, CES1 remained the only statistically significant predictor, emphasizing its role in relapse beyond clinical variables.   
+Analysis of significant covariates revealed that several drug metabolism genes, including UGT1A1, NUDT15, CYP2C9, CYP2C19, CYP2C8, CES1, and ABCC3 were associated with relapse risk in RNA-only models. When combining RNA and clinical features, CES1 remained the only statistically significant predictor, emphasizing its role in relapse beyond clinical variables.   
 
 ## Discussion   
 Our analysis shows that combining clinical and molecular data can improve understanding of factors affecting survival in leukemia patients.   
