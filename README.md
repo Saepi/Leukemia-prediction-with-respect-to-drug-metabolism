@@ -45,7 +45,7 @@ This procedure enabled the construction of a ranked gene list, which was subsequ
 Functional enrichment analysis revealed pathways associated with oxidative stress and immune response, which are expected in leukemia given the central role of redox imbalance in malignant hematopoietic cells and the immune origin of the disease, as well as the impact of chemotherapy on immune and inflammatory signaling.   
 
 ### Drug Metabolism Genes   
-To specifically investigate the predictive contribution of drug metabolism–related genes, a curated list of genes was assembled and classified according to their role in drug clearance:   
+To specifically investigate the predictive contribution of drug metabolism–related genes, a curated list of genes was assembled based on KEGG and Reactome, where genes are classified according to their role in drug clearance:   
 - **Phase I (Functionalization):** Chemical modification of drugs, often increasing their reactivity   
 - **Phase II (Conjugation):** Addition of polar groups to enhance solubility and excretion   
 - **Phase III (Transport):** Active transport of drugs or metabolites out of the cell  
@@ -109,7 +109,8 @@ Relapse in pediatric leukemia is strongly influenced by variability in drug meta
 Overall, these results suggest that survival in leukemia is shaped by a combination of clinical context and molecular mechanisms, particularly genes affecting drug metabolism. Future work should validate these findings in larger cohorts, explore functional roles of the identified genes, and test whether incorporating these markers into treatment planning can improve outcomes for both pediatric and adult patients.   
 
 ## Credits   
-This work is done by Viktor Nekrasov, LS-1 (analysis of pediatric cohort) and Stepan Epifantsev, DS-1 (analysis of adult cohort).   
+This work is done by Viktor Nekrasov, LS-1 (analysis of pediatric cohort) and Stepan Epifantsev, DS-1 (analysis of adult cohort).
+Responsible teaching assistant - Margarita Zapevalina   
 
 ## References   
 [Pediatric Acute Lymphoid Leukemia - Phase II](https://www.cbioportal.org/study/summary?id=all_phase2_target_2018_pub)
